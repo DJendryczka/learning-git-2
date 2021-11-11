@@ -1,5 +1,7 @@
 header {
     background: #a0a06e;
+    margin: 5px 0 5px 0;
+    padding: 5px 0 5px 0;
 }
 
 .container {
@@ -9,4 +11,10 @@ header {
 
 footer p {
     font-size: 20px;
+}
+
+footer {
+    background: #777e7a;
+    margin: 5px 0 5px 0;
+    padding: 5px 0 5px 0;
 }
